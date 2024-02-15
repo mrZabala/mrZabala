@@ -29,12 +29,12 @@
 <h1> Languages: </h1>
   <a href="https://en.wikipedia.org/wiki/Dominican_Republic"><img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="43px"></img></a>
 
-- **Programming Languages**:
+- **📘Programming Languages**:
     
   [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://es.wikipedia.org/wiki/C_Sharp)
 <br>   
     
-- **Front-End Development**:
+- **🛀Front-End Development**:
 
   [![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://es.wikipedia.org/wiki/HTML5)
    [![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://es.wikipedia.org/wiki/CSS3)
@@ -42,7 +42,7 @@
 
 <br>
 
-- **Softwares and Tools**:
+- **🐐 Softwares and Tools**:
   
    <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)-->
     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://es.wikipedia.org/wiki/github)
@@ -51,7 +51,7 @@
 
 <br>
 
-- **SO**:
+- **👀OS**:
   
  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://es.wikipedia.org/wiki/Ubuntu)
  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://es.wikipedia.org/wiki/Kali_linux)
