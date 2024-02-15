@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eliezer+Mr+Zabala+ElElio..&hearts;++;+Front-End+Developer,;Student,;Lo'Mina,;Love+Dominican+Republic,;Love+to+learn..<3"></a>
 </p>
 
-  ![Visitor Count](https://profile-counter.glitch.me/{md5-loki}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{mrZabala}/count.svg)
 <hr width="50%" style="height: 5px;">
 <br>
 
