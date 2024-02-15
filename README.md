@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<h1>🗣️ Languages: </h1>
+<h1> Languages: </h1>
   <a href="https://en.wikipedia.org/wiki/Dominican_Republic"><img src="https://github.com/md5-loki/md5-loki/blob/main/do.png" height="30px" width="43px"></img></a>
 
 - **Programming Languages**:
@@ -51,7 +51,7 @@
   
    <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)-->
     [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://es.wikipedia.org/wiki/github)
-    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://es.wikipedia.org/wiki/VisualStudioCode)
+    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://es.wikipedia.org/wiki/Visual_Studio_Code)
     [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://es.wikipedia.org/wiki/Linux)
 
 <br>
@@ -59,14 +59,13 @@
 - **SO**:
   
  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://es.wikipedia.org/wiki/Ubuntu)
+ [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://es.wikipedia.org/wiki/Kali_linux)
 
 
 </p>
 
 
-<li>
-</a>
-</li>
+
 	
 </ul>
 </div>
