@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Eliezer Peña</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eliezer+Mr+Zabala+ElElio..&hearts;++;Self-taught+Front-End+Developer,;Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eliezer+Mr+Zabala+ElElio..&hearts;++;+Front-End+Developer,;Student,;Lo'Mina,;Active+Learner/Researcher,;Love+to+learn..<3"></a>
 </p>
 
 
@@ -60,48 +60,8 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-</a>
-</li>
-
-<br>
-
-<li>
-</a>
-</li>
-
-<br>
 
 <li>
 </a>
@@ -110,26 +70,7 @@
 </ul>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-
-<!---
+<!--
 mrZabala/mrZabala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
