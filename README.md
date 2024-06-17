@@ -13,9 +13,7 @@
 	
 <br>
  -Self-taught 
- 
- -Front-end and Back-end developer
- 
+  
  -Currently learning Web Development by Self
 <br><br>
 
