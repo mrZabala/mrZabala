@@ -4,48 +4,65 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrZabala)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrZabala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer from the Dominican Republic, focused on building efficient and scalable solutions. I love transforming ideas into reality through clean code and innovative technologies.
+I'm a passionate **Software Developer** from the Dominican Republic 🇩🇴, focused on building **scalable, efficient, and clean solutions**.  
 
+💡 I enjoy solving complex problems and turning ideas into real-world applications using modern technologies.  
+🚀 Currently working with **Python, FastAPI, and backend architectures**, with strong experience in **.NET and Angular**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🚀 Languages & Frameworks
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,dotnet,cs,html,css,bootstrap,angular,js,postgresql" />
 
 </div>
 
-### Tools & Others
+---
+
+### 🧰 Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
+
 ---
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrZabala&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrZabala&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mrZabala&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
@@ -53,6 +70,8 @@ I'm a passionate software developer from the Dominican Republic, focused on buil
 
 <div align="center">
 
+🚧 *Coming soon...*  
+(You can showcase your best projects here)
 
 </div>
 
@@ -61,21 +80,33 @@ I'm a passionate software developer from the Dominican Republic, focused on buil
 ## 📈 Contribution Graph
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrZabala&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
 
 ## 💼 Professional Experience
 
+- 💻 Backend Developer working with **Python & FastAPI**
+- ⚙️ Experience building APIs and scalable systems
+- 🧠 Strong background in **.NET & Angular applications**
+- 🔍 Focus on clean architecture and performance
+
 ---
 
 ## 🎓 Education & Certifications
+
+🎓 Software Development / Self-taught + Continuous Learning  
+📚 Constantly improving skills in backend and modern frameworks  
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to interesting conversations and collaboration opportunities.
+I'm always open to collaboration, freelance opportunities, and tech discussions 🚀
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
@@ -86,12 +117,18 @@ I'm always open to interesting conversations and collaboration opportunities.
 
 ---
 
+## 🧠 Fun Fact
+
+> "Code is like humor. When you have to explain it, it’s bad." 😄
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrZabala&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mrZabala&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 </div>
 
 <div align="center">
   
-  **⭐️ From [mrZabala](https://github.com/mrZabala) with ❤️**
+### ⭐️ From [mrZabala](https://github.com/mrZabala) with ❤️
   
 </div>
